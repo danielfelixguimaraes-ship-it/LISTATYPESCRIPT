@@ -1,0 +1,23 @@
+{
+  "name": "listatypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielfelixguimaraes-ship-it/LISTATYPESCRIPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielfelixguimaraes-ship-it/LISTATYPESCRIPT/issues"
+  },
+  "homepage": "https://github.com/danielfelixguimaraes-ship-it/LISTATYPESCRIPT#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
