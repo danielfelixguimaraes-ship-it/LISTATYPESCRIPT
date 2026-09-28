@@ -1,7 +1,8 @@
-// Classe Bola: Crie uma classe que modele uma bola:
+// 1.Classe Bola: Crie uma classe que modele uma bola:
 //  Atributos: Cor, circunferência, material
 //  Métodos: trocaCor e mostraCor
 
+export function questao1() {
 class Bola{
     private _cor: string
     private _circu:number
@@ -20,4 +21,6 @@ class Bola{
     public get mostraCor(): string {
         return this._cor
     }
+}
+alert("Questão 1 rodando, sem testes!")
 }
